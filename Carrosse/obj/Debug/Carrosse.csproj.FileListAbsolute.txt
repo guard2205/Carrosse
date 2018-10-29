@@ -1,0 +1,234 @@
+B:\MonPOO\Carrosse\Carrosse\bin\Debug\Carrosse.exe.config
+B:\MonPOO\Carrosse\Carrosse\bin\Debug\Carrosse.exe
+B:\MonPOO\Carrosse\Carrosse\bin\Debug\Carrosse.pdb
+B:\MonPOO\Carrosse\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+B:\MonPOO\Carrosse\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+B:\MonPOO\Carrosse\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+B:\MonPOO\Carrosse\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+B:\MonPOO\Carrosse\Carrosse\obj\Debug\Carrosse.exe
+B:\MonPOO\Carrosse\Carrosse\obj\Debug\Carrosse.pdb
+B:\MonPOO\Carrosse - Phase 1\Carrosse\bin\Debug\Carrosse.exe.config
+B:\MonPOO\Carrosse - Phase 1\Carrosse\obj\Debug\Carrosse.exe
+B:\MonPOO\Carrosse - Phase 1\Carrosse\obj\Debug\Carrosse.pdb
+B:\MonPOO\Carrosse - Phase 1\Carrosse\bin\Debug\Carrosse.exe
+B:\MonPOO\Carrosse - Phase 1\Carrosse\bin\Debug\Carrosse.pdb
+B:\MonPOO\Carrosse - Phase 1\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+B:\MonPOO\Carrosse - Phase 1\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+B:\MonPOO\Carrosse - Phase 1\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+B:\MonPOO\Carrosse - Phase 1\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+B:\MonPOO\Carrosse - Phase 2\Carrosse\bin\Debug\Carrosse.exe.config
+B:\MonPOO\Carrosse - Phase 2\Carrosse\obj\Debug\Carrosse.exe
+B:\MonPOO\Carrosse - Phase 2\Carrosse\obj\Debug\Carrosse.pdb
+C:\Users\DevWin\Documents\Carrosse - Phase 2\Carrosse\bin\Debug\Carrosse.exe.config
+C:\Users\DevWin\Documents\Carrosse - Phase 2\Carrosse\obj\Debug\Carrosse.exe
+C:\Users\DevWin\Documents\Carrosse - Phase 2\Carrosse\obj\Debug\Carrosse.pdb
+C:\Users\DevWin\Documents\Carrosse - Phase 2\Carrosse\bin\Debug\Carrosse.exe
+C:\Users\DevWin\Documents\Carrosse - Phase 2\Carrosse\bin\Debug\Carrosse.pdb
+C:\Users\DevWin\Documents\Carrosse - Phase 2\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+C:\Users\DevWin\Documents\Carrosse - Phase 2\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+C:\Users\DevWin\Documents\Carrosse - Phase 2\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+C:\Users\DevWin\Documents\Carrosse - Phase 2\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+C:\Users\DevWin\Documents\Carrosse - Phase 3\Carrosse\bin\Debug\Carrosse.exe.config
+C:\Users\DevWin\Documents\Carrosse - Phase 3\Carrosse\obj\Debug\Carrosse.exe
+C:\Users\DevWin\Documents\Carrosse - Phase 3\Carrosse\obj\Debug\Carrosse.pdb
+C:\Users\DevWin\Documents\Carrosse - Phase 3\Carrosse\bin\Debug\Carrosse.exe
+C:\Users\DevWin\Documents\Carrosse - Phase 3\Carrosse\bin\Debug\Carrosse.pdb
+C:\Users\DevWin\Documents\Carrosse - Phase 3\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+C:\Users\DevWin\Documents\Carrosse - Phase 3\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+C:\Users\DevWin\Documents\Carrosse - Phase 3\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+C:\Users\DevWin\Documents\Carrosse - Phase 3\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+C:\Users\DevWin\Documents\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+C:\Users\DevWin\Documents\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+C:\Users\DevWin\Documents\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+C:\Users\DevWin\Documents\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+C:\Users\DevWin\Documents\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+C:\Users\DevWin\Documents\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+C:\Users\DevWin\Documents\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+C:\Users\DevWin\Documents\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+C:\Users\DevWin\Documents\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+B:\CD2 - Cours\A-ISET\AnneLise\POO\Animation\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+B:\CD2 - Cours\A-ISET\AnneLise\POO\Animation\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+B:\CD2 - Cours\A-ISET\AnneLise\POO\Animation\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+B:\CD2 - Cours\A-ISET\AnneLise\POO\Animation\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+B:\CD2 - Cours\A-ISET\AnneLise\POO\Animation\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+B:\CD2 - Cours\A-ISET\AnneLise\POO\Animation\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+B:\CD2 - Cours\A-ISET\AnneLise\POO\Animation\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+B:\CD2 - Cours\A-ISET\AnneLise\POO\Animation\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+B:\CD2 - Cours\A-ISET\AnneLise\POO\Animation\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+C:\Cours_Perso\CD2 - Cours - ISET - Acer\AL-INFO201-POO\Animation-AL\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+C:\Cours_Perso\CD2 - Cours - ISET - Acer\AL-INFO201-POO\Animation-AL\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+C:\Cours_Perso\CD2 - Cours - ISET - Acer\AL-INFO201-POO\Animation-AL\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+C:\Cours_Perso\CD2 - Cours - ISET - Acer\AL-INFO201-POO\Animation-AL\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+C:\Cours_Perso\CD2 - Cours - ISET - Acer\AL-INFO201-POO\Animation-AL\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+C:\Cours_Perso\CD2 - Cours - ISET - Acer\AL-INFO201-POO\Animation-AL\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+C:\Cours_Perso\CD2 - Cours - ISET - Acer\AL-INFO201-POO\Animation-AL\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+C:\Cours_Perso\CD2 - Cours - ISET - Acer\AL-INFO201-POO\Animation-AL\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+C:\Cours_Perso\CD2 - Cours - ISET - Acer\AL-INFO201-POO\Animation-AL\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Exemples-Animation\Animation-AL\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Exemples-Animation\Animation-AL\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Exemples-Animation\Animation-AL\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Exemples-Animation\Animation-AL\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Exemples-Animation\Animation-AL\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Exemples-Animation\Animation-AL\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Exemples-Animation\Animation-AL\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Exemples-Animation\Animation-AL\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+D:\CD2 - Cours - Hel - Technique\AL-INFO201-POO\POO-Exemples-Animation\Animation-AL\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+C:\Users\AnneLise\Desktop\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+C:\Users\AnneLise\Desktop\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+C:\Users\AnneLise\Desktop\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+C:\Users\AnneLise\Desktop\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+C:\Users\AnneLise\Desktop\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+C:\Users\AnneLise\Desktop\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+C:\Users\AnneLise\Desktop\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+C:\Users\AnneLise\Desktop\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+C:\Users\AnneLise\Desktop\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+E:\isetcours\POO\2017-11-22\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+E:\isetcours\POO\2017-11-22\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+E:\isetcours\POO\2017-11-22\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+E:\isetcours\POO\2017-11-22\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+E:\isetcours\POO\2017-11-22\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+E:\isetcours\POO\2017-11-22\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+E:\isetcours\POO\2017-11-22\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+E:\isetcours\POO\2017-11-22\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+E:\isetcours\POO\2017-11-22\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+E:\isetcours\POO\2017-11-22\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+E:\isetcours\POO\2017-11-22\phase 2\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+E:\isetcours\POO\2017-11-22\phase 2\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+E:\isetcours\POO\2017-11-22\phase 2\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+E:\isetcours\POO\2017-11-22\phase 2\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+E:\isetcours\POO\2017-11-22\phase 2\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+E:\isetcours\POO\2017-11-22\phase 2\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+E:\isetcours\POO\2017-11-22\phase 2\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+E:\isetcours\POO\2017-11-22\phase 2\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+E:\isetcours\POO\2017-11-22\phase 2\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+E:\isetcours\POO\2017-11-22\phase 2\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+E:\isetcours\POO\2017-11-22\phase3\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+E:\isetcours\POO\2017-11-22\phase3\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+E:\isetcours\POO\2017-11-22\phase3\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+E:\isetcours\POO\2017-11-22\phase3\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+E:\isetcours\POO\2017-11-22\phase3\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+E:\isetcours\POO\2017-11-22\phase3\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+E:\isetcours\POO\2017-11-22\phase3\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+E:\isetcours\POO\2017-11-22\phase3\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+E:\isetcours\POO\2017-11-22\phase3\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+E:\isetcours\POO\2017-11-22\phase3\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+E:\isetcours\POO\2017-11-22\phase4\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+E:\isetcours\POO\2017-11-22\phase4\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+E:\isetcours\POO\2017-11-22\phase4\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+E:\isetcours\POO\2017-11-22\phase4\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+E:\isetcours\POO\2017-11-22\phase4\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+E:\isetcours\POO\2017-11-22\phase4\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+E:\isetcours\POO\2017-11-22\phase4\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+E:\isetcours\POO\2017-11-22\phase4\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+E:\isetcours\POO\2017-11-22\phase4\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+E:\isetcours\POO\2017-11-22\phase4\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+E:\isetcours\POO\carosseperso\phase5\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+E:\isetcours\POO\carosseperso\phase5\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+E:\isetcours\POO\carosseperso\phase5\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+E:\isetcours\POO\carosseperso\phase5\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+E:\isetcours\POO\carosseperso\phase5\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+E:\isetcours\POO\carosseperso\phase5\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+E:\isetcours\POO\carosseperso\phase5\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+E:\isetcours\POO\carosseperso\phase5\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+E:\isetcours\POO\carosseperso\phase5\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+E:\isetcours\POO\carosseperso\phase5\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+E:\isetcours\POO\carosseperso\phase6\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+E:\isetcours\POO\carosseperso\phase6\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+E:\isetcours\POO\carosseperso\phase6\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+E:\isetcours\POO\carosseperso\phase6\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+E:\isetcours\POO\carosseperso\phase6\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+E:\isetcours\POO\carosseperso\phase6\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+E:\isetcours\POO\carosseperso\phase6\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+E:\isetcours\POO\carosseperso\phase6\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+E:\isetcours\POO\carosseperso\phase6\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+E:\isetcours\POO\carosseperso\phase6\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+E:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+E:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+E:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+E:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+E:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+E:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+E:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+E:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+E:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+E:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+D:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+D:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+D:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+D:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+D:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+D:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase7\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase7test\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+D:\isetcours\POO\carosseperso\phase7test\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase7test\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase7test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+D:\isetcours\POO\carosseperso\phase7test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+D:\isetcours\POO\carosseperso\phase7test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+D:\isetcours\POO\carosseperso\phase7test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+D:\isetcours\POO\carosseperso\phase7test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+D:\isetcours\POO\carosseperso\phase7test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase7test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase8\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+D:\isetcours\POO\carosseperso\phase8\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase8\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase8\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+D:\isetcours\POO\carosseperso\phase8\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+D:\isetcours\POO\carosseperso\phase8\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+D:\isetcours\POO\carosseperso\phase8\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+D:\isetcours\POO\carosseperso\phase8\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+D:\isetcours\POO\carosseperso\phase8\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase8\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase9\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+D:\isetcours\POO\carosseperso\phase9\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase9\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase9\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+D:\isetcours\POO\carosseperso\phase9\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+D:\isetcours\POO\carosseperso\phase9\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+D:\isetcours\POO\carosseperso\phase9\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+D:\isetcours\POO\carosseperso\phase9\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+D:\isetcours\POO\carosseperso\phase9\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase9\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase10\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+D:\isetcours\POO\carosseperso\phase10\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+D:\isetcours\POO\carosseperso\phase10\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+D:\isetcours\POO\carosseperso\phase10\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+D:\isetcours\POO\carosseperso\phase10\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+D:\isetcours\POO\carosseperso\phase10\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase10\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase10\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+D:\isetcours\POO\carosseperso\phase10\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase10\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase10test\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+D:\isetcours\POO\carosseperso\phase10test\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase10test\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase10test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+D:\isetcours\POO\carosseperso\phase10test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+D:\isetcours\POO\carosseperso\phase10test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+D:\isetcours\POO\carosseperso\phase10test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+D:\isetcours\POO\carosseperso\phase10test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+D:\isetcours\POO\carosseperso\phase10test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase10test\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+D:\isetcours\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+D:\isetcours\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+D:\isetcours\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+D:\isetcours\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+D:\isetcours\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+D:\isetcours\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+D:\isetcours\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+D:\isetcours\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
+D:\isetcours\2e\QI\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe.config
+D:\isetcours\2e\QI\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.exe
+D:\isetcours\2e\QI\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\bin\Debug\Carrosse.pdb
+D:\isetcours\2e\QI\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csprojResolveAssemblyReference.cache
+D:\isetcours\2e\QI\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.EcranAccueil.resources
+D:\isetcours\2e\QI\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.Properties.Resources.resources
+D:\isetcours\2e\QI\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.GenerateResource.Cache
+D:\isetcours\2e\QI\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.csproj.CoreCompileInputs.cache
+D:\isetcours\2e\QI\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.exe
+D:\isetcours\2e\QI\POO\carosseperso\phase11\Carrosse - Phase 4\Carrosse\obj\Debug\Carrosse.pdb
